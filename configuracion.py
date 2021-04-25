@@ -1,0 +1,19 @@
+# -*- coding: utf-8 -*-
+from collections import namedtuple
+
+TAMANO_LETRA = 20
+TAMANO_LETRA2= 25
+TAMANO_LETRA_GRANDE = 30
+TAMANO_LETRA_MUYGRANDE = 60
+FPS_INICIAL = 3
+
+ANCHO = 800
+ALTO = 600
+
+COLOR_AZUL = (0, 0, 255)
+COLOR_VERDE = (0, 255, 0)
+COLOR_BLANCO = (255, 255, 255)
+COLOR_ROJO = (255, 0, 0)
+
+
+

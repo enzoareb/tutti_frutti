@@ -1,0 +1,102 @@
+ala delta
+acrobacia
+acuatlón
+aerobic
+aikido
+ajedrez
+alpinismo
+artes marciales
+atletismo
+automovilismo
+baloncesto
+basquet
+billar
+billarda
+birlos
+bobsleigh
+bodyboard
+boxéo
+badminton
+béisbol
+caza
+ciclismo
+colombofilia
+corfebol
+criquet
+croquet
+cuadratlon
+curling
+danza deportiva
+dardos
+fútbol
+fútbol americano
+fútbol playa
+fútbol sala
+golf
+gimnasia
+gimnasia rítmica
+halterofilia
+hípica
+hockey
+hockey sobre hierba
+hockey sobre hielo
+hurling
+hanball
+judo
+karate
+kendo
+kickboxing
+karting
+kung fu
+lacrosse
+lucha
+sumerjo
+motociclismo
+motonautica
+mhuai thay
+natación
+octopush
+orientación
+paracaidismo
+parapente
+parkour
+patinaje
+paintball
+pelota
+pelota valenciana
+pelota vasca
+pentatlon moderno
+pesca deportiva
+petanca
+polo
+remo
+rugby
+salto de trampolin
+sendeirismo
+softbol
+shinty
+skateboard
+skeleton
+snowboard
+speedball
+squash
+sumo
+superbikes
+surf
+tenis
+tenis de mesa
+tiro
+tiro con arco
+triatlón
+taekwondo
+vela
+voley
+voley playa
+valetudo
+waterpolo
+windsurf
+wushu
+win tsun
+esgrima
+esqui
+equitación
